@@ -5,7 +5,7 @@
   {"name": "AggregateExpression1", "size": 5000},
   {"name": "Visualization1", "size": 5000}
  ]
-}
+},
 {
  "name": "flare2",
  "children": [
@@ -13,7 +13,7 @@
   {"name": "AggregateExpression2", "size": 5000},
   {"name": "Visualization2", "size": 5000}
  ]
-}
+},
 {
  "name": "flare3",
  "children": [
