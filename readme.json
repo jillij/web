@@ -2,7 +2,23 @@
  "name": "flare",
  "children": [
   {"name": "animate", "size": 5000},
-  {"name": "AggregateExpression", "size": 3000},
+  {"name": "AggregateExpression", "size": 5000},
+  {"name": "Visualization", "size": 5000}
+ ]
+}
+{
+ "name": "flare",
+ "children": [
+  {"name": "animate", "size": 5000},
+  {"name": "AggregateExpression", "size": 5000},
+  {"name": "Visualization", "size": 5000}
+ ]
+}
+{
+ "name": "flare",
+ "children": [
+  {"name": "animate", "size": 5000},
+  {"name": "AggregateExpression", "size": 5000},
   {"name": "Visualization", "size": 5000}
  ]
 }
