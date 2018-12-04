@@ -10,128 +10,19 @@
   {
    "name": "data",
    "children": [
-    {
-     "name": "converters",
-     "children": [
-      {"name": "Converters", "size": 1000}
-     ]
-    },
     {"name": "DataField", "size": 1000}
-   ]
-  },
-  {
-   "name": "display",
-   "children": [
-    {"name": "DirtySprite", "size": 1000}
-   ]
-  },
-  {
-   "name": "flex",
-   "children": [
-    {"name": "FlareVis", "size": 1000}
-   ]
-  },
-  {
-   "name": "physics",
-   "children": [
-    {"name": "DragForce", "size": 1000}
    ]
   },
   {
    "name": "query",
    "children": [
     {"name": "AggregateExpression", "size": 1000},
-    {
-     "name": "methods",
-     "children": [
-      {"name": "add", "size": 1000}
-     ]
-    },
     {"name": "Minimum", "size": 1000}
-   ]
-  },
-  {
-   "name": "scale",
-   "children": [
-    {"name": "IScaleMap", "size": 1000}
-   ]
-  },
-  {
-   "name": "util",
-   "children": [
-    {"name": "Arrays", "size": 1000}
    ]
   },
   {
    "name": "vis",
    "children": [
-    {
-     "name": "axis",
-     "children": [
-      {"name": "Axes", "size": 1000}
-     ]
-    },
-    {
-     "name": "controls",
-     "children": [
-      {"name": "AnchorControl", "size": 1000}
-     ]
-    },
-    {
-     "name": "data",
-     "children": [
-      {"name": "Data", "size": 1000}
-     ]
-    },
-    {
-     "name": "events",
-     "children": [
-      {"name": "DataEvent", "size": 1000}
-     ]
-    },
-    {
-     "name": "legend",
-     "children": [
-      {"name": "Legend", "size": 1000}
-     ]
-    },
-    {
-     "name": "operator",
-     "children": [
-      {
-       "name": "distortion",
-       "children": [
-        {"name": "BifocalDistortion", "size": 1000}
-       ]
-      },
-      {
-       "name": "encoder",
-       "children": [
-        {"name": "ColorEncoder", "size": 1000}
-       ]
-      },
-      {
-       "name": "filter",
-       "children": [
-        {"name": "FisheyeTreeFilter", "size": 1000}
-       ]
-      },
-      {"name": "IOperator", "size": 1000},
-      {
-       "name": "label",
-       "children": [
-        {"name": "Labeler", "size": 1000}
-       ]
-      },
-      {
-       "name": "layout",
-       "children": [
-        {"name": "AxisLayout", "size": 1000}
-       ]
-      },
-      {"name": "Operator", "size": 1000}
-     ]
-    },
     {"name": "Visualization", "size": 1000}
    ]
   }
