@@ -2,40 +2,9 @@
  "name": "flare",
  "children": [
   {
-   "name": "analytics",
-   "children": [
-    {
-     "name": "cluster",
-     "children": [
-      {"name": "AgglomerativeCluster", "size": 3938}
-     ]
-    },
-    {
-     "name": "graph",
-     "children": [
-      {"name": "BetweennessCentrality", "size": 3534}
-     ]
-    },
-    {
-     "name": "optimization",
-     "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
-     ]
-    }
-   ]
-  },
-  {
    "name": "animate",
    "children": [
-    {"name": "Easing", "size": 17010},
-    {"name": "FunctionSequence", "size": 5842},
-    {
-     "name": "interpolate",
-     "children": [
-      {"name": "ArrayInterpolator", "size": 1983}
-     ]
-    },
-    {"name": "ISchedulable", "size": 1041}
+    {"name": "Easing", "size": 1000}
    ]
   },
   {
@@ -44,70 +13,53 @@
     {
      "name": "converters",
      "children": [
-      {"name": "Converters", "size": 721}
+      {"name": "Converters", "size": 1000}
      ]
     },
-    {"name": "DataField", "size": 1759}
+    {"name": "DataField", "size": 1000}
    ]
   },
   {
    "name": "display",
    "children": [
-    {"name": "DirtySprite", "size": 8833}
+    {"name": "DirtySprite", "size": 1000}
    ]
   },
   {
    "name": "flex",
    "children": [
-    {"name": "FlareVis", "size": 4116}
+    {"name": "FlareVis", "size": 1000}
    ]
   },
   {
    "name": "physics",
    "children": [
-    {"name": "DragForce", "size": 1082}
+    {"name": "DragForce", "size": 1000}
    ]
   },
   {
    "name": "query",
    "children": [
-    {"name": "AggregateExpression", "size": 1616},
-    {"name": "And", "size": 1027},
-    {"name": "Arithmetic", "size": 3891},
-    {"name": "Average", "size": 891},
-    {"name": "BinaryExpression", "size": 2893},
-    {"name": "Comparison", "size": 5103},
-    {"name": "CompositeExpression", "size": 3677},
-    {"name": "Count", "size": 781},
-    {"name": "DateUtil", "size": 4141},
-    {"name": "Distinct", "size": 933},
-    {"name": "Expression", "size": 5130},
-    {"name": "ExpressionIterator", "size": 3617},
-    {"name": "Fn", "size": 3240},
-    {"name": "If", "size": 2732},
-    {"name": "IsA", "size": 2039},
-    {"name": "Literal", "size": 1214},
-    {"name": "Match", "size": 3748},
-    {"name": "Maximum", "size": 843},
+    {"name": "AggregateExpression", "size": 1000},
     {
      "name": "methods",
      "children": [
-      {"name": "add", "size": 593}
+      {"name": "add", "size": 1000}
      ]
     },
-    {"name": "Minimum", "size": 843}
+    {"name": "Minimum", "size": 1000}
    ]
   },
   {
    "name": "scale",
    "children": [
-    {"name": "IScaleMap", "size": 2105}
+    {"name": "IScaleMap", "size": 1000}
    ]
   },
   {
    "name": "util",
    "children": [
-    {"name": "Arrays", "size": 8258}
+    {"name": "Arrays", "size": 1000}
    ]
   },
   {
@@ -116,31 +68,31 @@
     {
      "name": "axis",
      "children": [
-      {"name": "Axes", "size": 1302}
+      {"name": "Axes", "size": 1000}
      ]
     },
     {
      "name": "controls",
      "children": [
-      {"name": "AnchorControl", "size": 2138}
+      {"name": "AnchorControl", "size": 1000}
      ]
     },
     {
      "name": "data",
      "children": [
-      {"name": "Data", "size": 20544}
+      {"name": "Data", "size": 1000}
      ]
     },
     {
      "name": "events",
      "children": [
-      {"name": "DataEvent", "size": 2313}
+      {"name": "DataEvent", "size": 1000}
      ]
     },
     {
      "name": "legend",
      "children": [
-      {"name": "Legend", "size": 20859}
+      {"name": "Legend", "size": 1000}
      ]
     },
     {
@@ -149,38 +101,38 @@
       {
        "name": "distortion",
        "children": [
-        {"name": "BifocalDistortion", "size": 4461}
+        {"name": "BifocalDistortion", "size": 1000}
        ]
       },
       {
        "name": "encoder",
        "children": [
-        {"name": "ColorEncoder", "size": 3179}
+        {"name": "ColorEncoder", "size": 1000}
        ]
       },
       {
        "name": "filter",
        "children": [
-        {"name": "FisheyeTreeFilter", "size": 5219}
+        {"name": "FisheyeTreeFilter", "size": 1000}
        ]
       },
-      {"name": "IOperator", "size": 1286},
+      {"name": "IOperator", "size": 1000},
       {
        "name": "label",
        "children": [
-        {"name": "Labeler", "size": 9956}
+        {"name": "Labeler", "size": 1000}
        ]
       },
       {
        "name": "layout",
        "children": [
-        {"name": "AxisLayout", "size": 6725}
+        {"name": "AxisLayout", "size": 1000}
        ]
       },
-      {"name": "Operator", "size": 2490}
+      {"name": "Operator", "size": 1000}
      ]
     },
-    {"name": "Visualization", "size": 16540}
+    {"name": "Visualization", "size": 1000}
    ]
   }
  ]
