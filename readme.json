@@ -1,24 +1,24 @@
 {
- "name": "flare",
+ "name": "flare1",
  "children": [
-  {"name": "animate", "size": 5000},
-  {"name": "AggregateExpression", "size": 5000},
-  {"name": "Visualization", "size": 5000}
+  {"name": "animate1", "size": 5000},
+  {"name": "AggregateExpression1", "size": 5000},
+  {"name": "Visualization1", "size": 5000}
  ]
 }
 {
- "name": "flare",
+ "name": "flare2",
  "children": [
-  {"name": "animate", "size": 5000},
-  {"name": "AggregateExpression", "size": 5000},
-  {"name": "Visualization", "size": 5000}
+  {"name": "animate2", "size": 5000},
+  {"name": "AggregateExpression2", "size": 5000},
+  {"name": "Visualization2", "size": 5000}
  ]
 }
 {
- "name": "flare",
+ "name": "flare3",
  "children": [
-  {"name": "animate", "size": 5000},
-  {"name": "AggregateExpression", "size": 5000},
-  {"name": "Visualization", "size": 5000}
+  {"name": "animate3", "size": 5000},
+  {"name": "AggregateExpression3", "size": 5000},
+  {"name": "Visualization3", "size": 5000}
  ]
 }
