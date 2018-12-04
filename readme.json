@@ -4,26 +4,26 @@
   {
    "name": "animate",
    "children": [
-    {"name": "Easing", "size": 1000}
+    {"name": "Easing", "size": 5000}
    ]
   },
   {
    "name": "data",
    "children": [
-    {"name": "DataField", "size": 1000}
+    {"name": "DataField", "size": 5000}
    ]
   },
   {
    "name": "query",
    "children": [
-    {"name": "AggregateExpression", "size": 1000},
-    {"name": "Minimum", "size": 1000}
+    {"name": "AggregateExpression", "size": 3000},
+    {"name": "Minimum", "size": 3000}
    ]
   },
   {
    "name": "vis",
    "children": [
-    {"name": "Visualization", "size": 1000}
+    {"name": "Visualization", "size": 5000}
    ]
   }
  ]
