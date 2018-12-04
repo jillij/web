@@ -1,0 +1,8 @@
+{
+ "name": "flare1",
+ "children": [
+  {"name": "animate1", "size": 5000},
+  {"name": "AggregateExpression1", "size": 5000},
+  {"name": "Visualization1", "size": 5000}
+ ]
+}
