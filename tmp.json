@@ -1,0 +1,16 @@
+{
+ "name": "flare1",
+ "children": [
+  {"name": "animate1", "size": 5000},
+  {"name": "AggregateExpression1", "size": 5000},
+  {"name": "Visualization1", "size": 5000}
+ ]
+},
+{
+ "name": "flare2",
+ "children": [
+  {"name": "animate2", "size": 5000},
+  {"name": "AggregateExpression2", "size": 5000},
+  {"name": "Visualization2", "size": 5000}
+ ]
+}
