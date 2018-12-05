@@ -1,11 +1,11 @@
 {
 "nodes":[
 {"id":"A","group":"AAA"},
-{"id":"B","group":"AAA"},
-{"id":"C","group":"AAA"},
+{"id":"B","group":"BBB"},
+{"id":"C","group":"BBB"},
 {"id":"D","group":"AAA"},
-{"id":"E","group":"AAA"},
-{"id":"F","group":"AAA"},
+{"id":"E","group":"CCC"},
+{"id":"F","group":"DDD"},
 {"id":"G","group":"AAA"}
 ],
 "links":[
